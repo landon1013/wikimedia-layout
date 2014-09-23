@@ -1,1 +1,43 @@
+body {
+    width: 980px;
+    margin: 0 auto;
+}
 
+header {
+    width: 100%;
+}
+
+p {
+    font-size: 150%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.right {
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #0645AD;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.grid {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.img{
+    width: 25%;
+}
